@@ -1,10 +1,7 @@
 {
 	
-  "cobblemon.species.pitipole.name": "Pitipole",
-  "cobblemon.species.pitipole.desc1": "In its natural habitat, this pokémon desprately attempts to eat glow berries that hang just out of reach.",
-  "cobblemon.species.pitipole.desc2": "It is mostly blind, and must curl its tail to create a paddle. It struggles even in its home territory.",
+  "cobblemon.species.monk.name": "Monk",
+  "cobblemon.species.monk.desc1": "In its natural habitat, this pokémon desprately attempts to eat glow berries that hang just out of reach.",
+  "cobblemon.species.monk.desc2": "It is mostly blind, and must curl its tail to create a paddle. It struggles even in its home territory."
   
-  "cobblemon.species.tentaquil.name": "Tentaquil",
-  "cobblemon.species.tentaquil.desc1": "If its bold colors do not sufficiently ward off predators, it secretes toxins that smell strongly of copper.",
-  "cobblemon.species.tentaquil.desc2": "There has only been one recorded sighting of this pokémon. Until recently, this was considered to be a joke."
-}
+	}

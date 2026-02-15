@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:monk",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:monk",
+      "model": "cobblemon:monk.geo",
+      "texture": "cobblemon:textures/pokemon/monk/monk.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/monk/monk_shiny.png"
+    }
+  ]
+}
