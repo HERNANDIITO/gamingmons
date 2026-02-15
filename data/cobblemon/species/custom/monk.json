@@ -1,6 +1,6 @@
 {
   "implemented": true,
-  "name": "tonk",
+  "name": "monk",
   "labels": ["custom"],
   "pokedex": ["cobblemon.species.monk.desc1", "cobblemon.species.monk.desc2"],
   "height": 1,
