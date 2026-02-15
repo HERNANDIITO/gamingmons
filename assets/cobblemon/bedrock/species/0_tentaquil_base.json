@@ -1,0 +1,25 @@
+{
+  "species": "cobblemon:tentaquil",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:tentaquil",
+      "model": "cobblemon:tentaquil.geo",
+      "texture": "cobblemon:textures/pokemon/tentaquil/tentaquil.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/tentaquil/tentaquil_shiny.png"
+    },
+    {
+      "aspects": [
+        "mischief"
+      ],
+	  "model": "cobblemon:tentaquilmischief.geo"
+    }
+  ]
+}

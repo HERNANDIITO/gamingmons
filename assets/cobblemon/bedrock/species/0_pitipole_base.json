@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:pitipole",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:pitipole",
+      "model": "cobblemon:pitipole.geo",
+      "texture": "cobblemon:textures/pokemon/pitipole/pitipole.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/pitipole/pitipole_shiny.png"
+    }
+  ]
+}
