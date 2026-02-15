@@ -2,9 +2,9 @@
 	"format_version": "1.8.0",
 	"animations": {
 		"animation.monk.idle": {
-			"loop": true,
+			"animation_length": 0.5,
 			"bones": {
-				"monk": {
+				"rotate": {
 					"relative_to": {
 						"rotation": "entity"
 					},
