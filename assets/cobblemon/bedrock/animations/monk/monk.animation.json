@@ -2,19 +2,13 @@
 	"format_version": "1.8.0",
 	"animations": {
 		"animation.monk.idle": {
-			"animation_length": 0.2917,
+			"loop": true,
 			"bones": {
-				"arms": {
-					"rotation": {
-						"0.0": {"pre": [-110, 0, 0], "post": [-110, 0, 0]}
+				"monk": {
+					"relative_to": {
+						"rotation": "entity"
 					},
-					"position": {
-						"0.0": {"pre": [0, 0, 0], "post": [0, 0, 0]}
-					},
-					"scale": {
-						"0.0": [1, 1, 1],
-						"0.2917": {"pre": [1, -1, 1], "post": [1, -1, 1]}
-					}
+					"rotation": [0, 0, 0.01]
 				}
 			}
 		}

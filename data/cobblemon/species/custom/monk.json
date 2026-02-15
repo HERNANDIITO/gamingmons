@@ -30,10 +30,10 @@
   "abilities": ["toughclaws", "h:serenegrace"],
   "evolutions": [],
 
-  "baseScale": 1.1,
+  "baseScale": 1,
   "hitbox": {
-    "width": 0.9,
-    "height": 1.4,
+    "width": 0.5,
+    "height": 0.75,
     "fixed": false
   },
   "drops": {
