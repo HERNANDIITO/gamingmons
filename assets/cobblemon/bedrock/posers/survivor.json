@@ -1,0 +1,24 @@
+{
+  "portraitScale": 6,
+  "portraitTranslation": [-0.4, -5.5, 0],
+  "profileScale": 2,
+  "profileTranslation": [0, -1.25, 0],
+  "poses": {
+    "standing": {
+      "poseName": "standing",
+      "transformTicks": 10,
+      "poseTypes": ["STAND", "WALK", "NONE"],
+      "animations": [
+        "bedrock(survivor, idle)"
+      ]
+    },
+    "swimming": {
+      "poseName": "swimming",
+      "transformTicks": 10,
+      "poseTypes": ["SWIM", "FLOAT", "PORTRAIT", "PROFILE"],
+      "animations": [
+        "bedrock(survivor, idle)"
+      ]
+    }
+  }
+}
