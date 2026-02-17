@@ -1,0 +1,63 @@
+{
+  "implemented": true,
+  "name": "rivulet",
+  "labels": ["custom"],
+  "pokedex": ["cobblemon.species.rivulet.desc1", "cobblemon.species.rivulet.desc2"],
+  "height": 1,
+  "weight": 1,
+  "shoulderMountable": true,
+  "primaryType": "normal",
+  "secondaryType": "water",
+  "baseStats": {
+    "hp": 125,
+    "attack": 105,
+    "defence": 95,
+    "special_attack": 120,
+    "special_defence": 85,
+    "speed": 70
+  },
+  "catchRate": 30,
+  "maleRatio": 0.5,
+  "baseExperienceYield": 270,
+  "experienceGroup": "fluctuating",
+  "eggCycles": 25,
+  "eggGroups": ["water_1", "monster"],
+  "baseFriendship": 35,
+  "evYield": {
+    "hp": 2,
+    "special_attack": 1
+  },
+  "moves": ["egg:disable", "20:crushclaw", "tm:rest", "tutor:honeclaws"],
+  "abilities": ["toughclaws", "h:serenegrace"],
+  "evolutions": [],
+
+  "baseScale": 1,
+  "hitbox": {
+    "width": 0.5,
+    "height": 0.75,
+    "fixed": false
+  },
+  "drops": {
+    "amount": "2",
+    "entries": [
+      {
+        "item": "minecraft:slimeball",
+        "quantityRange": "1-2",
+        "percentage": 66
+      }
+    ]
+  },
+  "behaviour": {
+    "moving": {
+      "canLook": false,
+      "fly": {
+        "canFly": false
+      },
+      "swim": {
+        "swimSpeed": 0.2,
+        "canSwimInWater": true,
+        "canBreatheUnderwater": true
+      }
+    }
+  }
+}
