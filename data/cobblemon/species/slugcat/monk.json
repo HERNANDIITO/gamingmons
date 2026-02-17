@@ -1,7 +1,7 @@
 {
   "implemented": true,
   "name": "monk",
-  "labels": ["custom"],
+  "labels": ["slugcat"],
   "pokedex": ["cobblemon.species.monk.desc1", "cobblemon.species.monk.desc2"],
   "height": 1,
   "weight": 1,

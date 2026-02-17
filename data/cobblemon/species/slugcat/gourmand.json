@@ -1,7 +1,7 @@
 {
   "implemented": true,
   "name": "gourmand",
-  "labels": ["custom"],
+  "labels": ["slugcat"],
   "pokedex": ["cobblemon.species.gourmand.desc1", "cobblemon.species.gourmand.desc2"],
   "height": 1,
   "weight": 1,

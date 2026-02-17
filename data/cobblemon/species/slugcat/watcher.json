@@ -1,7 +1,7 @@
 {
   "implemented": true,
   "name": "watcher",
-  "labels": ["custom"],
+  "labels": ["slugcat"],
   "pokedex": ["cobblemon.species.watcher.desc1", "cobblemon.species.watcher.desc2"],
   "height": 1,
   "weight": 1,

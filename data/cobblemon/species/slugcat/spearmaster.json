@@ -1,7 +1,7 @@
 {
   "implemented": true,
   "name": "spearmaster",
-  "labels": ["custom"],
+  "labels": ["slugcat"],
   "pokedex": ["cobblemon.species.spearmaster.desc1", "cobblemon.species.spearmaster.desc2"],
   "height": 1,
   "weight": 1,
