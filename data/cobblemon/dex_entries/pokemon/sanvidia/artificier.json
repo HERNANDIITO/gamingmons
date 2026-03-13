@@ -1,0 +1,15 @@
+{
+  "id": "cobblemon:artificer",
+  "speciesId": "cobblemon:artificer",
+  "displayAspects": [],
+  "conditionAspects": [],
+  "forms": [
+    {
+      "displayForm": "Normal",
+      "unlockForms": [
+        "Normal"
+      ]
+    }
+  ],
+  "variations": []
+}

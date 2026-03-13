@@ -6,6 +6,7 @@
   "height": 1,
   "weight": 1,
   "shoulderMountable": true,
+  "nationalPokedexNumber": 9005,
   "primaryType": "normal",
   "secondaryType": "water",
   "baseStats": {

@@ -1,0 +1,15 @@
+{
+  "id": "cobblemon:rivulet",
+  "speciesId": "cobblemon:rivulet",
+  "displayAspects": [],
+  "conditionAspects": [],
+  "forms": [
+    {
+      "displayForm": "Normal",
+      "unlockForms": [
+        "Normal"
+      ]
+    }
+  ],
+  "variations": []
+}

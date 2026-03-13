@@ -1,0 +1,15 @@
+{
+  "id": "cobblemon:spearmaster",
+  "speciesId": "cobblemon:spearmaster",
+  "displayAspects": [],
+  "conditionAspects": [],
+  "forms": [
+    {
+      "displayForm": "Normal",
+      "unlockForms": [
+        "Normal"
+      ]
+    }
+  ],
+  "variations": []
+}

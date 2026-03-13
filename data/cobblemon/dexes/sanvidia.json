@@ -1,0 +1,16 @@
+{
+  "type": "cobblemon:simple_pokedex_def",
+  "id": "cobblemon:sanvidia",
+  "sortOrder": 12,
+  "entries": [
+    "cobblemon:monk",
+    "cobblemon:survivor",
+    "cobblemon:hunter",
+    "cobblemon:artificer",
+    "cobblemon:gourmand",
+    "cobblemon:rivulet",
+    "cobblemon:spearmaster",
+    "cobblemon:saint",
+    "cobblemon:watcher"
+  ]
+}

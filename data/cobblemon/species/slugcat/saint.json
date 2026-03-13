@@ -1,12 +1,14 @@
 {
   "implemented": true,
-  "name": "monk",
+  "name": "saint",
   "labels": ["slugcat"],
-  "pokedex": ["cobblemon.species.monk.desc1", "cobblemon.species.monk.desc2"],
+  "pokedex": ["cobblemon.species.saint.desc1", "cobblemon.species.saint.desc2"],
   "height": 1,
   "weight": 1,
   "shoulderMountable": true,
+  "nationalPokedexNumber": 9007,
   "primaryType": "normal",
+  "secondaryType": "psychic",
   "baseStats": {
     "hp": 125,
     "attack": 105,

@@ -5,6 +5,7 @@
   "pokedex": ["cobblemon.species.monk.desc1", "cobblemon.species.monk.desc2"],
   "height": 1,
   "weight": 1,
+  "nationalPokedexNumber": 9000,
   "shoulderMountable": true,
   "primaryType": "normal",
   "baseStats": {

@@ -1,0 +1,15 @@
+{
+  "id": "cobblemon:gourmand",
+  "speciesId": "cobblemon:gourmand",
+  "displayAspects": [],
+  "conditionAspects": [],
+  "forms": [
+    {
+      "displayForm": "Normal",
+      "unlockForms": [
+        "Normal"
+      ]
+    }
+  ],
+  "variations": []
+}

@@ -5,6 +5,7 @@
   "pokedex": ["cobblemon.species.watcher.desc1", "cobblemon.species.watcher.desc2"],
   "height": 1,
   "weight": 1,
+  "nationalPokedexNumber": 9008,
   "shoulderMountable": true,
   "primaryType": "normal",
   "secondaryType": "ghost",
