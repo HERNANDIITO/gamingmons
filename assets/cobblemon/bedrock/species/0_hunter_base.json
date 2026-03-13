@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:hunter",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:survivor",
+      "model": "cobblemon:hunter.geo",
+      "texture": "cobblemon:textures/pokemon/hunter/hunter.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/hunter/hunter_shiny.png"
+    }
+  ]
+}

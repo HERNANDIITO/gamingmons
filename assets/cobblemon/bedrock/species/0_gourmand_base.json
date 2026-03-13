@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:gourmand",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:survivor",
+      "model": "cobblemon:gourmand.geo",
+      "texture": "cobblemon:textures/pokemon/gourmand/gourmand.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/gourmand/gourmand_shiny.png"
+    }
+  ]
+}

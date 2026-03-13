@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:saint",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:survivor",
+      "model": "cobblemon:saint.geo",
+      "texture": "cobblemon:textures/pokemon/saint/saint.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/saint/saint_shiny.png"
+    }
+  ]
+}

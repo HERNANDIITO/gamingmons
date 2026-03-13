@@ -8,12 +8,12 @@
 				"texture_height": 64,
 				"visible_bounds_width": 4,
 				"visible_bounds_height": 2.5,
-				"visible_bounds_offset": [0, 0.75, 0]
+				"visible_bounds_offset": [0, 0, 0]
 			},
 			"bones": [
 				{
 					"name": "surv",
-					"pivot": [1, 14, -1]
+					"pivot": [0,0,0]
 				},
 				{
 					"name": "leg2",

@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:rivulet",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:survivor",
+      "model": "cobblemon:rivulet.geo",
+      "texture": "cobblemon:textures/pokemon/rivulet/rivulet.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/rivulet/rivulet_shiny.png"
+    }
+  ]
+}

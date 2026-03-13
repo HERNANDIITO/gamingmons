@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:artificer",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:survivor",
+      "model": "cobblemon:artificer.geo",
+      "texture": "cobblemon:textures/pokemon/artificer/artificer.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/artificer/artificer_shiny.png"
+    }
+  ]
+}

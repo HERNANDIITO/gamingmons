@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:spearmaster",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:survivor",
+      "model": "cobblemon:spearmaster.geo",
+      "texture": "cobblemon:textures/pokemon/spearmaster/spearmaster.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/spearmaster/spearmaster_shiny.png"
+    }
+  ]
+}

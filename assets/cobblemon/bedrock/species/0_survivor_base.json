@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:survivor",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:survivor",
+      "model": "cobblemon:survivor.geo",
+      "texture": "cobblemon:textures/pokemon/survivor/survivor.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/survivor/survivor_shiny.png"
+    }
+  ]
+}

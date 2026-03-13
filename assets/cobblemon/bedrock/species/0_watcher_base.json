@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:watcher",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:survivor",
+      "model": "cobblemon:watcher.geo",
+      "texture": "cobblemon:textures/pokemon/watcher/watcher.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/watcher/watcher_shiny.png"
+    }
+  ]
+}
